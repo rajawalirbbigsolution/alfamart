@@ -1,0 +1,2 @@
+[06-May-2020 09:18:16 UTC] PHP Fatal error:  Cannot redeclare Order::getCost() in /home/zeronein/public_html/application/controllers/Order.php on line 1813
+[06-May-2020 09:18:27 UTC] PHP Fatal error:  Cannot redeclare Order::getCost() in /home/zeronein/public_html/application/controllers/Order.php on line 1813
